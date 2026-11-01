@@ -12,7 +12,7 @@ Plain HTML and CSS. No build step, no framework. Open `index.html` in a browser 
 | `work/*.html` | One page per case study (challenge, what I led, what changed, result) |
 | `css/site.css` | All styles. Colour and type tokens are at the top of the file |
 | `js/site.js` | Scroll-spy for the left-rail navigation. Optional |
-| `assets/` | Put `karen-ferrero-resume.pdf` and app screenshots here |
+| `assets/` | App screenshots |
 
 ## Editing content
 
@@ -23,7 +23,5 @@ Plain HTML and CSS. No build step, no framework. Open `index.html` in a browser 
 
 ## Before launch
 
-1. Drop the résumé PDF at `assets/karen-ferrero-resume.pdf`.
-2. Confirm JobCompass status, add a live link if there is one, and swap in real screenshots.
-3. Check the contact email in the rail and the About section.
-4. For a custom domain on GitHub Pages, add a `CNAME` file containing `karenferrero.com` and point DNS at GitHub.
+1. Confirm JobCompass status, add a live link if there is one, and swap in real screenshots.
+2. For a custom domain on GitHub Pages, add a `CNAME` file containing `karenferrero.com` and point DNS at GitHub.
